@@ -19,7 +19,7 @@ go build -o <output-file>
 
 ## Usage
 
-In order for AceDeck to parse your cards, prepare text file with CSV-like format with `;` as necessary delimiter (view the sample file by [this link](./internal/data/sample.csv))
+In order for AceDeck to parse your cards, prepare text file with CSV-like format with `;` as **necessary delimiter** (view the sample file by [this link](./internal/data/sample.csv))
 
 ## Roadmap
 
